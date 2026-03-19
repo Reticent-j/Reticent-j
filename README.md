@@ -1,6 +1,7 @@
 <h2>Hi, I'm Jack!</h2>
 
-<div style="font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 280px; font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
 <h3>🧳 Professional Experiences</h3>
 &nbsp;&nbsp;SELECT<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics" style="color:#0969da;text-decoration:none;">IQVIA</a> AS current_role,&nbsp;&nbsp;<em>-- Associate, Strategy &amp; Analytics</em><br>
@@ -17,6 +18,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bu.edu/questrom/" style="color:#0969da;text-decoration:none;">BU Questrom</a> AS institution<br>
 &nbsp;&nbsp;FROM education<br>
 &nbsp;&nbsp;ORDER BY degree_date DESC;
+</div>
+<div style="flex-shrink: 0;">
+<img src="Image (4).jpg" alt="Me doing Muay Thai" width="220" style="border-radius: 8px;">
+</div>
 </div>
 <br>
 <p>Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
