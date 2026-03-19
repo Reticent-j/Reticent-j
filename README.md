@@ -24,7 +24,6 @@ ORDER BY degree_date DESC;
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="LinkedIn" width="48" height="48" style="vertical-align:top; margin:4px"></a>
-  <a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/" title="Poet's &amp; Quants 2025 Best &amp; Brightest"><img src="https://cdn.simpleicons.org/trophy/FFD700" alt="Poet's &amp; Quants" width="48" height="48" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ---
