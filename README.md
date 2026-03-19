@@ -19,12 +19,8 @@
 &nbsp;&nbsp;FROM education<br>
 &nbsp;&nbsp;ORDER BY degree_date DESC;
 </div>
-<div style="flex-shrink: 0;">
-<img src="Image (4).jpg" alt="Me doing Muay Thai" width="220" style="border-radius: 8px;">
-</div>
-</div>
 <br>
-<p>Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
+<p>🌍 Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="LinkedIn" width="48" height="48" style="vertical-align:top; margin:4px"></a>
