@@ -1,24 +1,39 @@
 <h2>🥊 Hi, I'm Jack</h2>
 
-<div style="font-family: monospace; white-space: pre; background: #f6f8fa; padding: 1rem; border-radius: 6px; overflow-x: auto; line-height: 1.6;">SELECT
+<div style="font-family: monospace; white-space: pre; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; margin-bottom: 2rem;">
+SELECT
+
     <a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics">IQVIA</a>           AS current_role,   -- Strategy &amp; Analytics, Market Access
+
     <a href="https://www.pwc.com/us/en/industries/health-industries.html">PwC</a>             AS prior_role,    -- Mgmt Consulting Intern, Health Industries
-    <a href="https://www.bostonscientific.com/en-US/home.html">Boston Scientific</a> AS prior_role,    -- Corporate Strategy Intern
+
+    <a href="https://www.bostonscientific.com/en-US/home.html">Boston Scientific</a> AS prior_role    -- Corporate Strategy Intern
+
 FROM
+
     relevant_roles;
 </div>
 
-<div style="font-family: monospace; white-space: pre; background: #f6f8fa; padding: 1rem; border-radius: 6px; overflow-x: auto; line-height: 1.6;">    SELECT
-        'Masters, Quantitative Methods'       AS degree,
-        <a href="https://hsph.harvard.edu/">Harvard T.H. Chan</a> AS institution
-    UNION ALL
-    SELECT
-        'BS, Quantitative Finance &amp; Business Analytics' AS degree,
-        <a href="https://www.bu.edu/questrom/">BU Questrom</a>     AS institution
-    FROM
-        alma_maters
-    ORDER BY
-        degree_date DESC;
+<div style="font-family: monospace; white-space: pre; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2;">
+SELECT
+
+    'Masters, Quantitative Methods'           AS degree,
+    <a href="https://hsph.harvard.edu/">Harvard T.H. Chan</a>   AS institution
+
+UNION ALL
+
+SELECT
+
+    'BS, Quantitative Finance &amp; Business Analytics' AS degree,
+    <a href="https://www.bu.edu/questrom/">BU Questrom</a>             AS institution
+
+FROM
+
+    alma_maters
+
+ORDER BY
+
+    degree_date DESC;
 </div>
 
 <p>Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
