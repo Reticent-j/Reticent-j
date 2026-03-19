@@ -1,6 +1,6 @@
 <h2>Hi, I'm Jack!</h2>
 
-<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: wrap;">
+<div style="display: flex; gap: 1.5rem; align-items: flex-start; flex-wrap: nowrap;">
 <div style="flex: 1; min-width: 280px; font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
 <h3>🧳 Professional Experiences</h3>
 &nbsp;&nbsp;SELECT<br>
