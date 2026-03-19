@@ -1,6 +1,7 @@
 <h2>Hi, I'm Jack</h2>
-<p>Life sciences consultant at <strong><a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics">IQVIA</a></strong>. Former intern at <strong><a href="https://www.pwc.com/us/en/industries/health-industries.html">PwC</a></strong> and <strong><a href="https://www.bostonscientific.com/en-US/home.html">Boston Scientific</a></strong>.</p>
-<p>Masters in Quantitative Methods at <strong><a href="https://hsph.harvard.edu/">Harvard T.H. Chan School of Public Health</a></strong>. BS in Quantitative Finance &amp; Business Analytics from <strong><a href="https://www.bu.edu/questrom/">BU Questrom</a></strong>. Based in Boston, grew up in LA. Combat sports enthusiast.</p>
+<p>I'm a life sciences consultant at <strong><a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics">IQVIA</a></strong>, where I work on strategy and analytics in market access. Before that, I interned as a <strong>Management Consulting Intern</strong> at <strong><a href="https://www.pwc.com/us/en/industries/health-industries.html">PwC</a></strong> (Health Industries) and in <strong>Corporate Strategy</strong> at <strong><a href="https://www.bostonscientific.com/en-US/home.html">Boston Scientific</a></strong>.</p>
+<p>I'm currently pursuing a Masters in Quantitative Methods at <strong><a href="https://hsph.harvard.edu/">Harvard</a></strong>, and I graduated from <strong><a href="https://www.bu.edu/questrom/">Boston University</a></strong> with a BS in Quantitative Finance &amp; Business Analytics. I've been in Boston for the past few years, though I grew up in the LA area. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
+
 
 <h2>👨‍💻 Select Projects</h2>
 <ul>
@@ -17,10 +18,14 @@
 <li>stay tuned!</li>
 </ul>
 
+<h2>📚 Currently Reading</h2>
+<ul>
+<li><em>The Selfish Gene</em> - Richard Dawkins</li>
+<li><em>The Art of Uncertainty</em> - David Spiegelhalter</li>
+</ul>
+
 <h2>Links</h2>
 <p>
 <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poets_%26_Quants-2025_Best_%26_Brightest-FFD700?style=for-the-badge" alt="Poets &amp; Quants 2025 Best &amp; Brightest"></a>
 </p>
-<ul>
-<li><a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/">Poets &amp; Quants 2025 Best &amp; Brightest</a></li>
-</ul>
