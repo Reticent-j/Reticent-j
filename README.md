@@ -27,5 +27,5 @@
 <h2>Links</h2>
 <p>
 <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poets_%26_Quants-2025_Best_%26_Brightest-FFD700?style=for-the-badge" alt="Poets &amp; Quants 2025 Best &amp; Brightest"></a>
+<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poets_%26_Quants-2025_Best_%26_Brightest-FFD700?style=for-the-badge" alt="Poets &amp; Quants"></a>
 </p>
