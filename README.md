@@ -1,22 +1,22 @@
 <h2>🥊 Hi, I'm Jack</h2>
 
-<div style="font-family: monospace; white-space: pre-wrap; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2;">
--- Professional Experience
-SELECT
-    <a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics">IQVIA</a> AS current_role,   -- Strategy &amp; Analytics, Market Access
-    <a href="https://www.pwc.com/us/en/industries/health-industries.html">PwC</a> AS prior_role,    -- Mgmt Consulting Intern, Health Industries
-    <a href="https://www.bostonscientific.com/en-US/home.html">Boston Scientific</a> AS prior_role    -- Corporate Strategy Intern
-FROM relevant_roles;
-
--- Education
-SELECT
-    'Masters, Quantitative Methods' AS degree,
-    <a href="https://hsph.harvard.edu/">Harvard T.H. Chan</a> AS institution
-UNION ALL
-SELECT
-    'BS, Quantitative Finance &amp; Business Analytics' AS degree,
-    <a href="https://www.bu.edu/questrom/">BU Questrom</a> AS institution
-FROM alma_maters
+<div style="font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
+-- Professional Experience<br>
+SELECT<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics" style="color:#0969da;text-decoration:none;">IQVIA</a> AS current_role,&nbsp;&nbsp;-- Strategy &amp; Analytics, Market Access<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pwc.com/us/en/industries/health-industries.html" style="color:#0969da;text-decoration:none;">PwC</a> AS prior_role,&nbsp;&nbsp;&nbsp;-- Mgmt Consulting Intern, Health Industries<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bostonscientific.com/en-US/home.html" style="color:#0969da;text-decoration:none;">Boston Scientific</a> AS prior_role&nbsp;&nbsp;&nbsp;&nbsp;-- Corporate Strategy Intern<br>
+FROM relevant_roles;<br>
+<br>
+-- Education<br>
+SELECT<br>
+&nbsp;&nbsp;&nbsp;&nbsp;'Masters, Quantitative Methods' AS degree,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hsph.harvard.edu/" style="color:#0969da;text-decoration:none;">Harvard T.H. Chan</a> AS institution<br>
+UNION ALL<br>
+SELECT<br>
+&nbsp;&nbsp;&nbsp;&nbsp;'BS, Quantitative Finance &amp; Business Analytics' AS degree,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bu.edu/questrom/" style="color:#0969da;text-decoration:none;">BU Questrom</a> AS institution<br>
+FROM alma_maters<br>
 ORDER BY degree_date DESC;
 </div>
 
