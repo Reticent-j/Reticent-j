@@ -6,7 +6,7 @@ SELECT<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics" style="color:#0969da;text-decoration:none;">IQVIA</a> AS current_role,&nbsp;&nbsp;-- Strategy &amp; Analytics, Market Access<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pwc.com/us/en/industries/health-industries.html" style="color:#0969da;text-decoration:none;">PwC</a> AS prior_role,&nbsp;&nbsp;&nbsp;-- Mgmt Consulting Intern, Health Industries<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bostonscientific.com/en-US/home.html" style="color:#0969da;text-decoration:none;">Boston Scientific</a> AS prior_role&nbsp;&nbsp;&nbsp;&nbsp;-- Corporate Strategy Intern<br>
-FROM relevant_roles;<br>
+FROM professional_experiences;<br>
 <br>
 ## Education<br>
 SELECT<br>
@@ -16,7 +16,7 @@ UNION ALL<br>
 SELECT<br>
 &nbsp;&nbsp;&nbsp;&nbsp;'BS, Quantitative Finance &amp; Business Analytics' AS degree,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bu.edu/questrom/" style="color:#0969da;text-decoration:none;">BU Questrom</a> AS institution<br>
-FROM alma_maters<br>
+FROM education<br>
 ORDER BY degree_date DESC;
 </div>
 
