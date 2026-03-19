@@ -1,4 +1,4 @@
-<h2>🥊 Hi, I'm Jack</h2>
+<h2>Hi, I'm Jack!</h2>
 
 <div style="font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
 <h3>🧳 Professional Experiences</h3>
@@ -47,6 +47,6 @@
 </ul>
 
 <h3>🎮 Gaming</h3>
-<p>~3k hours in <strong>League of Legends</strong> (peaked Emerald) · Top 10k in <strong>osu!</strong> · Formerly <strong>Grandmaster</strong> in Overwatch.</p>
+<p>~3k hours in <strong>League of Legends</strong> (peaked Emerald) · Formerly Top 10k in <strong>osu!</strong> · Formerly <strong>Grandmaster</strong> in Overwatch.</p>
 
 ---
