@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poet%27s_%26_Quants-Profile-FFD700?style=for-the-badge" alt="Poet's &amp; Quants"></a>
+<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poet%27s_%26_Quants-Profile-FFD700?style=for-the-badge&amp;labelColor=FFD700&amp;color=FFD700" alt="Poet's &amp; Quants"></a>
 </p>
 
 ---
