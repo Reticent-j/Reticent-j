@@ -3,8 +3,8 @@
 <p>I'm currently pursuing a Masters in Quantitative Methods at <strong><a href="https://hsph.harvard.edu/">Harvard</a></strong>, and I graduated from <strong><a href="https://www.bu.edu/questrom/">Boston University</a></strong> with a BS in Quantitative Finance &amp; Business Analytics. I've been in Boston for the past few years, though I grew up in the LA area. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
 
 <p>
-<a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poet%27s_%26_Quants-Profile-FFD700?style=for-the-badge&amp;labelColor=FFD700&amp;color=FFD700" alt="Poet's &amp; Quants"></a>
+<a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="125" height="28"></a>
+<a href="https://poetsandquantsforundergrads.com/students/2025-best-brightest-business-major-jack-wang-boston-university-questrom/"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Poet%27s_%26_Quants--FFD700?style=for-the-badge&amp;labelColor=FFD700&amp;color=FFD700" alt="Poet's &amp; Quants" width="125" height="28"></a>
 </p>
 
 ---
