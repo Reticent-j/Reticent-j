@@ -3,7 +3,7 @@
 <div style="font-family: monospace; background: #f6f8fa; padding: 1.5rem; border-radius: 6px; overflow-x: auto; line-height: 2; color: #24292f;">
 <h3>🧳 Professional Experiences</h3>
 &nbsp;&nbsp;SELECT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics" style="color:#0969da;text-decoration:none;">IQVIA</a> AS current_role,&nbsp;&nbsp;<em>-- Strategy &amp; Analytics, Market Access</em><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.iqvia.com/locations/united-states/solutions/life-sciences/commercial-solutions/market-access/market-access-us-consulting-analytics" style="color:#0969da;text-decoration:none;">IQVIA</a> AS current_role,&nbsp;&nbsp;<em>-- Associate, Strategy &amp; Analytics</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pwc.com/us/en/industries/health-industries.html" style="color:#0969da;text-decoration:none;">PwC</a> AS prior_role,&nbsp;&nbsp;&nbsp;<em>-- Mgmt Consulting Intern, Health Industries</em><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bostonscientific.com/en-US/home.html" style="color:#0969da;text-decoration:none;">Boston Scientific</a> AS prior_role&nbsp;&nbsp;&nbsp;&nbsp;<em>-- Corporate Strategy Intern</em><br>
 &nbsp;&nbsp;FROM professional_experiences;<br>
