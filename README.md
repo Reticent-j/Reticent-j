@@ -20,7 +20,7 @@
 &nbsp;&nbsp;ORDER BY degree_date DESC;
 </div>
 <br>
-<p>🌍 Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>sanda</strong> (I love my side kicks) for several years.</p>
+<p>🌍 Based in Boston, grew up in LA. Outside of work, I've trained in <strong>kickboxing</strong> and <strong>muay thai</strong> (I love my low kicks) for several years.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jacktzwang/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="LinkedIn" width="48" height="48" style="vertical-align:top; margin:4px"></a>
